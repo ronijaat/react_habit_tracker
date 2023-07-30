@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_habit_tracker/static/css/main.053ec90b.css",
+    "main.js": "/react_habit_tracker/static/js/main.f10f631f.js",
+    "static/media/moon.jpg": "/react_habit_tracker/static/media/moon.4488438a200a4c9fd44f.jpg",
+    "index.html": "/react_habit_tracker/index.html",
+    "main.053ec90b.css.map": "/react_habit_tracker/static/css/main.053ec90b.css.map",
+    "main.f10f631f.js.map": "/react_habit_tracker/static/js/main.f10f631f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.053ec90b.css",
+    "static/js/main.f10f631f.js"
+  ]
+}
